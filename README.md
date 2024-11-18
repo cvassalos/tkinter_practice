@@ -10,6 +10,6 @@ and documentation tutorial to learn the ropes of Tkinter as I want to use
 this package to create several small apps in Python.
 
 App ideas:
-Flashcard App
+Flashcard App\n
 Study Timer
 Weather App
