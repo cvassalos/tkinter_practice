@@ -4,6 +4,7 @@ https://docs.python.org/3/library/tkinter.html
 --------------- DOCS TUTORIAL ---------------
 https://tkdocs.com/tutorial/intro.html#betterway
 ----> Currentlly on BASIC WIDGETS section
+    ----->> FRAMES
 
 
 These are experimental Tkinter files I'm creating from the documentation
