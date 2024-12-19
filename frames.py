@@ -15,14 +15,14 @@ frame1['borderwidth'] = 5
 frame1['relief'] = 'sunken'
 frame1.grid()
 
-frame2 = ttk.Frame(root, width=200, height=200, padding=5, style='Danger.TFrame')
+frame2 = ttk.Frame(root, width=500, height=500, padding=5, style='Danger.TFrame')
 frame2['padding'] = 5
 frame2['borderwidth'] = 5
 frame2['relief'] = 'sunken'
 frame2.grid()
 
-label1 = ttk.Label(frame1, text="Label One").grid()
-label2 = ttk.Label(frame2, text="Label Two").grid()
+#label1 = ttk.Label(frame1, text="Label One").grid()
+#label2 = ttk.Label(frame2, text="Label Two").grid()
 
 
 
