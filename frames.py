@@ -21,8 +21,8 @@ frame2['borderwidth'] = 5
 frame2['relief'] = 'sunken'
 frame2.grid()
 
-#label1 = ttk.Label(frame1, text="Label One").grid()
-#label2 = ttk.Label(frame2, text="Label Two").grid()
+label1 = ttk.Label(frame1, text="Label One").grid()
+label2 = ttk.Label(frame2, text="Label Two").grid()
 
 
 
