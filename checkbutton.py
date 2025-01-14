@@ -10,5 +10,7 @@ check = ttk.Checkbutton(root, text='Use Metric',
                         variable=measureSystem,
                         onvalue='metric', offvalue='imperial').grid()
 
+check.instate(['alternate'])
+
 
 root.mainloop()
