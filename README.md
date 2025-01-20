@@ -2,9 +2,9 @@
 https://docs.python.org/3/library/tkinter.html
 
 --------------- DOCS TUTORIAL ---------------
-https://tkdocs.com/tutorial/intro.html#betterway
-----> Currentlly on BASIC WIDGETS section
-    ----->> ENTRY - Watching for Changes
+[https://tkdocs.com/tutorial/intro.html#betterway](https://tkdocs.com/tutorial/grid.html)
+----> Currentlly on THE GRID GEOMETRY MANAGER section
+
 
 
 These are experimental Tkinter files I'm creating from the documentation
