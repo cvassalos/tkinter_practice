@@ -2,8 +2,8 @@
 https://docs.python.org/3/library/tkinter.html
 
 --------------- DOCS TUTORIAL ---------------
-[https://tkdocs.com/tutorial/intro.html#betterway](https://tkdocs.com/tutorial/grid.html)
-----> Currentlly on THE GRID GEOMETRY MANAGER section
+[[https://tkdocs.com/tutorial/intro.html#betterway](https://tkdocs.com/tutorial/grid.html)](https://tkdocs.com/tutorial/morewidgets.html)
+----> Currentlly on SCROLL BAR section
 
 
 
